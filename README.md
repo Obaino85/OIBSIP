@@ -7,19 +7,19 @@ This project involves analyzing a dataset containing **retail sales information*
 The dataset was cleaned and pre-processed using the following steps:
 
 1. **Data Import**
-   Loaded dataset using `Excel Sheet`
+   *Loaded dataset using `Excel Sheet`
    
 2. **Missing Value Handling**
-   Identified missing data 
-   Imputed missing numerical values 
-   Replaced missing categorical values 
+   *Identified missing data 
+   *Imputed missing numerical values 
+   *Replaced missing categorical values 
 
 3. **Duplicate Removal**
-   Removed duplicate records 
+   *Removed duplicate records 
 
 4. **Data Type Conversion**
-   Converted `date` columns to `datetime` format
-   Ensured numerical and categorical fields had appropriate data types
+   *Converted `date` columns to `datetime` format
+   *Ensured numerical and categorical fields had appropriate data types
 
 ## Key Insights
 
