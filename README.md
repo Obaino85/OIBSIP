@@ -29,3 +29,4 @@ The dataset was cleaned and pre-processed using the following steps:
 -  **Customer Behaviour**: understanding gender based sales value.
 
 
+![Retail  Sales Data](https://github.com/user-attachments/assets/d00e67b4-8cbc-4719-864b-87c05d5d2a6a)
